@@ -1,5 +1,7 @@
 #include <cstdio>
 
-int main() { std::printf("%s\n", "Hello World"); 
-printf("%s\n","Hello");
+int main()
+{
+        std::printf("%s\n", "Hello World");
+        printf("%s\n", "Hello");
 }
