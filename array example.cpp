@@ -10,5 +10,3 @@ int main()
             x[i] += y[i];
             printf("sum[%d] = %d\n", i, x[i]);
         }
-
-}
